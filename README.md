@@ -1,2 +1,2 @@
-# inferential_statistics
+# Inferential Statistics
 Repository detailing inferential statistics methods
